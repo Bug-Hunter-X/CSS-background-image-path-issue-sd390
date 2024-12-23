@@ -1,0 +1,12 @@
+/* bugSolution.css */
+
+body {
+  background-image: url('../images/image.jpg'); /* Correct relative path */ 
+  /* or */
+  /* background-image: url('/images/image.jpg'); /* Correct absolute path */
+}
+
+/* Alternatively if image is in the same directory: */
+/* body {
+    background-image: url('image.jpg');
+} */
